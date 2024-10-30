@@ -87,7 +87,6 @@ After configuring the IP addresses and setting up the server and target as outli
      - Optionally, delete itself after execution if the self-destruct feature is enabled.
 
 
-> [!NOTE] EXAMPLE USAGE
 > Refer to [USER GUIDE](USER%20GUIDE.md) for step by step installation
 
 ---
